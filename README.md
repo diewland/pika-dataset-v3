@@ -1,4 +1,4 @@
-# Pikachu v Raichu Dataset v.2
+# Pikachu v Raichu Dataset v.3
 ### Labels
  * pikachu
  * raichi
